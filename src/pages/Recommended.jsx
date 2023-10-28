@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Over500 from "../components/Over500";
 import Under300 from "../components/Under300";
-import Under150 from "../components/under150";
+import Under150 from "../components/Under150";
 
 const Recommended = () => {
   const [selectedPage, setSelectedPage] = useState("under150");
