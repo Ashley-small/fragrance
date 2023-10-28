@@ -9,7 +9,7 @@ import Navbar from "./layouts/Navbar";
 import Season from "./pages/Season";
 import FragranceDetails from "./pages/FragranceDetails";
 import Searched from "./pages/Searched";
-import Requests from "./pages/Requests.Jsx";
+import Requests from "./pages/Requests";
 import Learn from "./pages/Learn";
 import Recommended from "./pages/Recommended";
 
