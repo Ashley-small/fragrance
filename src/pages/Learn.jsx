@@ -51,7 +51,7 @@ const Learn = () => {
           <div className="w-96 h-96 mt-12 mx-auto pr-2">
             <img
               className="rounded-full object-cover"
-              src="../src/assets/images/22628.jpg"
+              src="/images/22628.jpg"
             />
           </div>
           <div className="text-center my-8">

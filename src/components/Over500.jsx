@@ -28,41 +28,29 @@ const Over500 = () => {
             <SplideSlide>
               <Link to={"/details/34"}>
                 <Card3
-                  image="@/src/images/GreenIrishTweed.jpg"
+                  image="/images/GreenIrishTweed.jpg"
                   name="Green Irish Tweed"
                 />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/4"}>
-                <Card3
-                  image="@/src/images/Black-Phantom.jpg"
-                  name="Black Phantom"
-                />
+                <Card3 image="/images/Black-Phantom.jpg" name="Black Phantom" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/2"}>
-                <Card3
-                  image="@/src/images/Creed-Aventus.jpg"
-                  name="Creed Aventus"
-                />
+                <Card3 image="/images/Creed-Aventus.jpg" name="Creed Aventus" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/35"}>
-                <Card3
-                  image="@/src/images/Ombre-Leather.jpg"
-                  name="Ombre Leather"
-                />
+                <Card3 image="/images/Ombre-Leather.jpg" name="Ombre Leather" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/3"}>
-                <Card3
-                  image="@/src/images/MyrhhandTonka.jpg"
-                  name="Myrrh & Tonka"
-                />
+                <Card3 image="/images/MyrhhandTonka.jpg" name="Myrrh & Tonka" />
               </Link>
             </SplideSlide>
           </Splide>

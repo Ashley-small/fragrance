@@ -20,7 +20,7 @@ const aftershave = [
       "Cedar",
       "Labdanum ",
     ],
-    image: "@/src/images/Dior-Sauvage.jpg",
+    image: "/images/Dior-Sauvage.jpg",
     occasion: "Anytime",
     season: "spring",
     review:
@@ -47,7 +47,7 @@ const aftershave = [
       "Ambergris",
       "Vanille",
     ],
-    image: "@/src/images/Creed-Aventus.jpg",
+    image: "/images/Creed-Aventus.jpg",
     occasion: "Anytime",
     season: "spring",
     review:
@@ -61,7 +61,7 @@ const aftershave = [
     brand: "Jo Malone",
     trending: "yes",
     scentProfile: ["Lavender", "Myrrh", "Tonka Bean", "Vanilla", "Almond"],
-    image: "@/src/images/MyrhhandTonka.jpg",
+    image: "/images/MyrhhandTonka.jpg",
     occasion: "Date Night",
     season: "autumn",
     review:
@@ -84,7 +84,7 @@ const aftershave = [
       "Sandalwood",
       "Heliotrope",
     ],
-    image: "@/src/images/Black-Phantom.jpg",
+    image: "/images/Black-Phantom.jpg",
     occasion: "Date Night",
     season: "winter",
     review:
@@ -105,7 +105,7 @@ const aftershave = [
       "Vanilla",
       "Leather",
     ],
-    image: "@/src/images/Valentino-Uomo.jpg",
+    image: "/images/Valentino-Uomo.jpg",
     occasion: "Date Night ",
     season: "autumn",
     review:
@@ -128,7 +128,7 @@ const aftershave = [
       "Ambergris",
       "Cedar",
     ],
-    image: "@/src/images/Mojave-Ghost.jpg",
+    image: "/images/Mojave-Ghost.jpg",
     season: "spring",
     occasion: "Night Out ",
     link: "https://www.amazon.co.uk/Byredo-Mojave-Ghost-Parfum-100/dp/B00NAX07ZM/ref=sr_1_1?crid=3LO8KJQASAFTB&keywords=mojave+ghost+byredo&qid=1697563371&sprefix=mojave+%2Caps%2C112&sr=8-1&ufe=app_do%3Aamzn1.fos.cc223b57-2b86-485c-a85e-6431c1f06c86",
@@ -149,7 +149,7 @@ const aftershave = [
       "Vetiver",
       "Olibanum",
     ],
-    image: "@/src/images/y.jpg",
+    image: "/images/Y.jpg",
     occasion: "office ",
     season: "summer",
     review:
@@ -177,7 +177,7 @@ const aftershave = [
       "Madagascar Vanilla",
       "Sandalwood",
     ],
-    image: "@/src/images/Jardin-Exclusif.jpg",
+    image: "/images/Jardin-Exclusif.jpg",
     occasion: "formal events ",
     season: "summer",
     review:
@@ -197,7 +197,7 @@ const aftershave = [
       "Oriental Notes",
       "Woodsy Notes",
     ],
-    image: "@/src/images/lemale.jpg",
+    image: "/images/lemale.jpg",
     season: "autumn",
     occasion: "Night Out ",
     review:
@@ -220,7 +220,7 @@ const aftershave = [
       "Tobacco",
       "Cedar",
     ],
-    image: "@/src/images/The-One.jpg",
+    image: "/images/The-One.jpg",
     occasion: "Date Night ",
     season: "autumn",
     review:
@@ -241,7 +241,7 @@ const aftershave = [
       "Woodsy Notes",
       "Ambroxan",
     ],
-    image: "@/src/images/Mercedes.jpg",
+    image: "/images/Mercedes.jpg",
     occasion: "night out ",
     season: "winter",
     review:
@@ -268,7 +268,7 @@ const aftershave = [
     ],
     occasion: "Anytime",
     season: "spring",
-    image: "@/src/images/ClubDeNuit.jpg",
+    image: "/images/ClubDeNuit.jpg",
     review:
       "A quick question for you. Do you know what the best selling, most desired and most popular mens fragrance of the 21st century is? No? The answer is Creed Aventus. Me selecting Club De Nuit Intense Man by Armaf goes against everything I believe in. Clones don't tend to be in my vocabulary ,however, when it is of the most popular aftershave, for 1/8 of the price then you can't really go wrong. The scent has a combination of bold tones of citrus, wood and spice. The use of lemon, pineapple, and blackcurrant means that the fragrance is good as a fresh summer fragrance. In addition to this, ambergris, vanilla and patchouli adds the spice necessary for a fragrance to be used in the autumn and winter months. There are also some who believe that due to the recent reformulation of Aventus, they prefer Club De Nuit as it tends to last longer and perform better. It has exceptional longevity that lingers throughout the night, making it ideal for formal events, romantic dinners, or upscale gatherings, for around £30. A quick caveat on this fragrance. You cannot just spray this and leave, spray the fragrance wait 15 minutes and let the initial harsh base disperse .",
     link: "https://www.amazon.co.uk/Armaf-Club-Nuit-Intense-105ml/dp/B00M3IFUMK/ref=sr_1_1?crid=WHPUHU3A2S82&keywords=club+de+nuit+intense+man&qid=1697564297&sprefix=Club+%2Caps%2C181&sr=8-1",
@@ -289,7 +289,7 @@ const aftershave = [
       "Amber",
       "Moss",
     ],
-    image: "@/src/images/BentleyAbsolute.jpg",
+    image: "/images/BentleyAbsolute.jpg",
     review:
       "What do you usually associate with Bentleys, a sharp suit, glasses, clean shaven or if not, neat stubble. Yes a man ready for work. Well this is a fragrance that is fairly dapper but not overly mature so it is applicable for school. Initially this fragrance starts very spicy and boozy but deviates from that after half an hour to something more captivating with the papyrus and sandalwood. It is excellent for autumn and winter, as it thrives in the cooler seasons. It is perfect for both daytime and evening wear, making it a versatile option for various occasions. Whether you're dressing for a formal event or enjoying a cozy night out, this fragrance will leave a lasting impression.",
     season: "summer",
@@ -316,7 +316,7 @@ const aftershave = [
     season: "winter",
     review:
       "This is a fragrance that I was apprehensive in initially trying but this is a serious attention grabber. It has absolutely no citrusy notes and opens up with cardamom and lavender for a blend of spice and freshness. The best thing about this fragrance is that it lives up to the name 'Halloween Man X' as the most prominent notes are cinnamon and whisky which add warmth. It is ideal for the cooler months of autumn and winter but is also a memorable fragrance that lasts well into the night, making it perfect for formal events, romantic dates or when you want to leave a lasting impact. ",
-    image: "@/src/images/Halloween.jpg",
+    image: "/images/Halloween.jpg",
     link: "https://www.amazon.co.uk/Halloween-Toilette-Oriental-Foug%C3%A8re-Fragrance/dp/B07NPQMY15/ref=sr_1_1?crid=28147JSNKB0EL&keywords=halloween+man+x&qid=1697564417&sprefix=Halloween+man%2Caps%2C119&sr=8-1",
   },
   {
@@ -335,7 +335,7 @@ const aftershave = [
       "Benzoin",
     ],
     season: "autumn",
-    image: "@/src/images/Terre.jpg",
+    image: "/images/Terre.jpg",
     review:
       "This is known for its elegent and earthy character. The start of the fragrance is very citrusy, focusing mainly on orange and grapefruit but it comes a lot more balanced with pepper and geranium which adds spice and floral tones. It is suitable for year-round wear, but it particularly shines in the transitional seasons of spring and autumn when its natural and woody notes complement the changing environment. It is perfect for both daytime and evening wear, making it a versatile choice for various occasions, from casual outings to formal events. This fragrance is a classic, well-crafted scent that will honestly stand the test of time.",
     link: "https://www.amazon.co.uk/Hermes-Terre-DHermes-Toilette-Spray/dp/B000JLCW56/ref=sr_1_2?crid=T3TBJVR72OO7&keywords=terre%2Bd%27hermes%2Bperfume%2Bfor%2Bmen&qid=1697564447&sprefix=Terr%2Caps%2C245&sr=8-2&th=1",
@@ -362,7 +362,7 @@ const aftershave = [
       "White Musk",
     ],
     season: "summer",
-    image: "@/src/images/BDC.jpg",
+    image: "/images/BDC.jpg",
     review:
       "This is a fragrance that you could wear all year, making it a reliable choice for various occasions. It's suitable for both daytime and evening use , whether you're headed to the office, out fora casual dinner, or dressing up a special event. It is very fresh, starting off with notes of lemon and mint and then becomes a significantly more balanced with the additions of ginger, nutmeg, cedar and sandalwood. It is considered a timeless classic and exudes and air of confidence and elegance that very few fragrances can match.",
     link: "https://www.johnlewis.com/chanel-bleu-de-chanel-eau-de-parfum-spray/p1705370",
@@ -385,7 +385,7 @@ const aftershave = [
     season: "summer",
     review:
       "This scent is a contemporary interpretation of a classic, offering a unique experience. With top notes of bergamot and pink pepper, it opens with a fresh and citrusy burst that exudes energy. The heart notes of iris and rose add depth and elegance.The cedar and vanilla add warmth to the fragrance and ensures the fragrance lingers. I genuinely think this is a perfect versatile fragrance as it isn't out of place in the daytime and the evening. It is particularly good in a formal setting where a suit is a necessity. Try this scent if you enjoy well-crafted scents that reflect confidence and refinement.",
-    image: "@/src/images/Dior-Homme.jpg",
+    image: "/images/Dior-Homme.jpg",
     link: "https://www.amazon.co.uk/CD-DIOR-HOMME-EDT-VP/dp/B0842NM51Y/ref=sr_1_1?crid=2AY1IMV4ETX45&keywords=dior+homme+2020&qid=1697564589&sprefix=dior+homme+2020%2Caps%2C115&sr=8-1",
   },
   {
@@ -407,7 +407,7 @@ const aftershave = [
       "Sandalwood",
     ],
     occasion: "office",
-    image: "../src/Prada.jpg",
+    image: "/images/prada.jpg",
     review:
       "This is my main office/professional scent. It is wildly elegant and versatile with top notes of neroli and black pepper, it opens up as simultaneously fresh and spicy. The Iris and violet adds a powdery and floral essence which balances the aroma. As I said, I wear this a lot to the office. This is because it is very versatile and able to be worn all year round regardless of daytime and evening occasions.",
     link: "https://www.amazon.co.uk/Prada-LHOMME-LEAU-100ml-Toilette/dp/B07BB2PRP1/ref=sr_1_1?crid=242C7U3VP26MJ&keywords=prada+l%27homme&qid=1697564623&sprefix=Prada+L%27h%2Caps%2C194&sr=8-1",
@@ -431,7 +431,7 @@ const aftershave = [
     occasion: "anytime",
     season: "summer",
     link: "https://www.amazon.co.uk/Nautica-Voyage-Toilette-Spray-Authentic/dp/B01I54ITP0/ref=sr_1_1?keywords=nautica+voyage&qid=1690588449&sprefix=nautic%2Caps%2C90&sr=8-1",
-    image: "@/src/images/Nautica.jpg",
+    image: "/images/Nautica.jpg",
     review:
       "This is perfect for the summer as it is manufactored for a casual and active lifestyle. It opens up fairly crisp with notes of green apple and green leaves. It then becomes a lot more floral as the notes of lotus and mimosa become more prominent. It does best when there is heat as it forces its light and airy character shines the brightest. Its enduring freshness and sea inspired notes make it a great go to option for warm-weather activities. ",
   },
@@ -448,7 +448,7 @@ const aftershave = [
       "Vetiver",
       "Caraway",
     ],
-    image: "@/src/images/La-Nuit-De-L'homme.jpg",
+    image: "/images/La-Nuit-De-L'homme.jpg",
     link: "https://www.amazon.co.uk/Nuit-Yves-Saint-Laurent-Toilette/dp/B001WB1JNS/ref=sr_1_4?crid=29SMFQWP2G5K1&keywords=la+nuit+de+l%27homme&qid=1697565606&sprefix=la+nuit+d%2Caps%2C205&sr=8-4",
     season: "winter",
   },
@@ -470,7 +470,7 @@ const aftershave = [
       "Leather",
     ],
     season: "summer",
-    image: "@/src/images/Wood-Neroli.jpg",
+    image: "/images/Wood-Neroli.jpg",
     link: "https://www.amazon.co.uk/Bvlgari-Wood-Neroli-100ml-Parfum/dp/B07T73VKZC/ref=sr_1_1?crid=O43WL520QJAA&keywords=bvlgari+man+wood+neroli&qid=1697565634&sprefix=Bulgari+wood+%2Caps%2C82&sr=8-1",
   },
   {
@@ -493,7 +493,7 @@ const aftershave = [
       "Suede",
     ],
     link: "https://www.boots.com/emporio-armani-stronger-with-you-intensely-eau-de-parfum-50ml-10259447?cm_mmc=bmm-buk-google-ppc-_-PLAs_HeroCompare-_--_-PMax:+UK_Smart_Shopping_Fragrance_All&gad_source=1&gclid=Cj0KCQjw4bipBhCyARIsAFsieCxJA9BQVvAI4nNDsYUtvGZIuX1yHQn1X_yq9iKcJjGjxidxFPxZmagaAk-WEALw_wcB&gclsrc=aw.ds",
-    image: "@/src/images/Stronger.jpg",
+    image: "/images/Stronger.jpg",
     season: "autumn",
   },
   {
@@ -514,7 +514,7 @@ const aftershave = [
       "Leather",
       "Vetiver",
     ],
-    image: "@/src/images/Spicebomb.jpg",
+    image: "/images/Spicebomb.jpg",
     link: "https://www.amazon.co.uk/Viktor-Rolf-Spicebomb-Extreme-Parfum/dp/B00WYP5ZHW/ref=sr_1_5?crid=3LH9SCM11A7SY&keywords=spicebomb&qid=1697565728&sprefix=spiceb%2Caps%2C243&sr=8-5&th=1",
     season: "winter",
   },
@@ -538,7 +538,7 @@ const aftershave = [
       "Amber",
     ],
     season: "summer",
-    image: "@/src/images/Artisan-pure.jpg",
+    image: "/images/Artisan-pure.jpg",
     link: "https://www.amazon.co.uk/John-Varvatos-Artisan-Pure-125/dp/B078218XMK/ref=sr_1_1?crid=1H6Q1EOHL2DMO&keywords=artisan+pure+john+varvatos&qid=1697565772&sprefix=Artisan+%2Caps%2C87&sr=8-1",
   },
   {
@@ -559,7 +559,7 @@ const aftershave = [
       "Patchouli",
       "Cedar",
     ],
-    image: "@/src/images/BFMI.jpg",
+    image: "/images/BFMI.jpg",
     link: "https://www.amazon.co.uk/Bentley-Men-Intense-Eau-Parfum/dp/B00CP7A1BY/ref=sr_1_1?crid=1TRKRRY6WK267&keywords=bentley%2Bintense%2Bfor%2Bmen&qid=1697565804&sprefix=Bentl%2Caps%2C102&sr=8-1&th=1",
     season: "autumn",
     occasion: "office",
@@ -595,7 +595,7 @@ const aftershave = [
       "Vetiver",
       "Patchouli",
     ],
-    image: "@/src/images/VBJ.jpg",
+    image: "/images/VBJ.jpg",
     link: "https://www.amazon.co.uk/Versace-Blue-Jeans-Toilette-Vaporizer/dp/B007W9ZEHQ/ref=sr_1_1?crid=2ZC698NHA52DN&keywords=versace%2Bblue%2Bjeans&qid=1697565872&sprefix=Versace%2B%2Caps%2C97&sr=8-1&th=1",
     season: "spring",
     review:
@@ -618,7 +618,7 @@ const aftershave = [
       "Woody Notes",
     ],
     season: "winter",
-    image: "@/src/images/Tobacco-Vanille.jpg",
+    image: "/images/Tobacco-Vanille.jpg",
     link: "https://www.lookfantastic.com/tom-ford-tobacco-vanille-eau-de-parfum-spray-50ml/12709323.html?affil=thgppc&switchcurrency=GBP&shippingcountry=GB&gclid=55d2db7af4d11453d759be5439d3eb45&gclsrc=3p.ds&msclkid=55d2db7af4d11453d759be5439d3eb45&utm_source=bing&utm_medium=cpc&utm_campaign=UK%20Smart%20Shopping%20SSC%20-%20Top%2035%20Brands%20-%201000%25&utm_term=4583589124190261&utm_content=Top%2035%20Brands",
   },
   {
@@ -645,7 +645,7 @@ const aftershave = [
       "Haitian Vetiver",
     ],
     season: "winter",
-    image: "@/src/images/Red-Tobacco.jpg",
+    image: "/images/Red-Tobacco.jpg",
     link: "https://www.bing.com/search?q=red+tobacco+mancera&cvid=c7bb952abee64fb3b51a923241dc4359&gs_lcrp=EgZjaHJvbWUqBAgCEAAyBAgAEAAyBggBEEUYOTIECAIQADIECAMQADIECAQQADIECAUQADIECAYQADIECAcQADIECAgQANIBCDI4MDJqMGo0qAIAsAIA&FORM=ANAB01&PC=HCTS",
   },
   {
@@ -666,7 +666,7 @@ const aftershave = [
       "Vetiver",
       "Oakmoss",
     ],
-    image: "@/src/images/Eros.jpg",
+    image: "/images/Eros.jpg",
     review:
       "This was the original clubbing scent, sensationally sweet. It isn't particulary unique as there are two other fragrances that accomplish a similar thing in Paco Rabanne 1 Million and Jean Paul Gaultier Ultramale, however, all of them are effective and there are subtle differences between them.",
     occasion: "Clubbing",
@@ -689,7 +689,7 @@ const aftershave = [
       "Tobacco",
       "Liquorice",
     ],
-    image: "@/src/images/Armani-code.jpg",
+    image: "/images/Armani-Code.jpg",
     review:
       "This is a loved fragrance by all. This is personally one of my favourites and is wildly unique as it is one of the only fragrances that uses liquorice as a note. It is also fairly versatile and not too harsh but you need to weary as it does not last particularly long.",
     occasion: "Anytime during the summer",
@@ -714,7 +714,7 @@ const aftershave = [
       " Woody Notes",
       "Indian Patchouli",
     ],
-    image: "@/src/images/1million.jpg",
+    image: "/images/1million.jpg",
     link: "https://www.amazon.co.uk/Paco-Rabanne-Million-Eau-Toilette/dp/B002XQ1X4G/ref=sr_1_1?crid=3R1YICTYRRZOX&keywords=paco+rabanne+one+million&qid=1697566128&sprefix=Paco%2Caps%2C112&sr=8-1",
     occasion: "Night Out",
     season: "spring",
@@ -733,7 +733,7 @@ const aftershave = [
       "Vanilla",
       "Patchouli",
     ],
-    image: "@/src/images/Rochas.jpg",
+    image: "/images/Rochas.jpg",
     link: "https://www.amazon.co.uk/dp/B07HK4ZNLQ?ref=nb_sb_ss_w_as-reorder-t1_k9_1_6&amp=&crid=2LWDE7ORKY72I&amp=&sprefix=rochas",
     occasion: "Night Out",
     season: "winter",
@@ -753,7 +753,7 @@ const aftershave = [
       "Patchouli",
     ],
     season: "summer",
-    image: "@/src/images/ADG.jpg",
+    image: "/images/ADG.jpg",
     link: "https://www.superdrug.com/fragrance/fragrance-for-him/mens-aftershave/giorgio-armani-aqua-di-gio-profumo-edp-refill-75ml/p/819720?msclkid=fde692829ab11b847622f7ac554f353a&utm_source=bing&utm_medium=cpc&utm_campaign=Superdrug-UK-PLA-Combined-All-All-SE-NC-Metoda-GSC-Fragrance&utm_term=4583863989899416&utm_content=Fragrance%20-%20Low%20Converting&gclid=fde692829ab11b847622f7ac554f353a&gclsrc=3p.ds",
   },
   {
@@ -768,7 +768,7 @@ const aftershave = [
       "Ambergris",
       "Sandalwood",
     ],
-    image: "@/src/images/GreenIrishTweed.jpg",
+    image: "/images/GreenIrishTweed.jpg",
     link: "https://www.johnlewis.com/creed-green-irish-tweed-eau-de-parfum/p3311377?size=50ml&s_ppc=5dx92700074071294720_mixed_fashion_BAU&tmad=c&tmcampid=2&gclid=26bb437619e51afab1002658c9b47be9&gclsrc=3p.ds&msclkid=26bb437619e51afab1002658c9b47be9",
     season: "summer",
   },
@@ -785,7 +785,7 @@ const aftershave = [
       "Moss",
       "Patchouli",
     ],
-    image: "@/src/images/Ombre-Leather.jpg",
+    image: "/images/Ombre-Leather.jpg",
     season: "winter",
     link: "https://www.johnlewis.com/tom-ford-ombre-leather-eau-de-parfum/p3745635",
   },

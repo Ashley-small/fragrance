@@ -16,7 +16,7 @@ const Hero = () => {
         <div>
           <img
             className="w-full h-[600px] object-cover"
-            src="@/src/images/banner.jpg"
+            src="/images/banner.jpg"
           />
         </div>
       </div>
