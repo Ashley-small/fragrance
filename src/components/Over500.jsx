@@ -28,7 +28,7 @@ const Over500 = () => {
             <SplideSlide>
               <Link to={"/details/34"}>
                 <Card3
-                  image="../src/assets/images/GreenIrishTweed.jpg"
+                  image="../src/images/GreenIrishTweed.jpg"
                   name="Green Irish Tweed"
                 />
               </Link>
@@ -36,7 +36,7 @@ const Over500 = () => {
             <SplideSlide>
               <Link to={"/details/4"}>
                 <Card3
-                  image="../src/assets/images/Black-Phantom.jpg"
+                  image="../src/images/Black-Phantom.jpg"
                   name="Black Phantom"
                 />
               </Link>
@@ -44,7 +44,7 @@ const Over500 = () => {
             <SplideSlide>
               <Link to={"/details/2"}>
                 <Card3
-                  image="../src/assets/images/Creed-Aventus.jpg"
+                  image="../src/images/Creed-Aventus.jpg"
                   name="Creed Aventus"
                 />
               </Link>
@@ -52,7 +52,7 @@ const Over500 = () => {
             <SplideSlide>
               <Link to={"/details/35"}>
                 <Card3
-                  image="../src/assets/images/Ombre-Leather.jpg"
+                  image="../src/images/Ombre-Leather.jpg"
                   name="Ombre Leather"
                 />
               </Link>
@@ -60,7 +60,7 @@ const Over500 = () => {
             <SplideSlide>
               <Link to={"/details/3"}>
                 <Card3
-                  image="../src/assets/images/MyrhhandTonka.jpg"
+                  image="../src/images/MyrhhandTonka.jpg"
                   name="Myrrh & Tonka"
                 />
               </Link>

@@ -27,7 +27,7 @@ const TheFive = () => {
           <div>
             <img
               className="w-full h-[700px] object-cover"
-              src="../src/assets/images/recBanner.jpg"
+              src="../src/images/recBanner.jpg"
             />
           </div>
         </div>
