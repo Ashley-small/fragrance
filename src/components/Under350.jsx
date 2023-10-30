@@ -27,47 +27,27 @@ const Under350 = () => {
           >
             <SplideSlide>
               <Link to={"/details/33"}>
-                <Card3
-                  image="/images/ADG.jpg"
-                  name="Acqua Di Gio"
-                  alt="Acqua Di Gio"
-                />
+                <Card3 image="/images/ADG.jpg" name="Acqua Di Gio" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/10"}>
-                <Card3
-                  image="/images/The-One.jpg"
-                  name="The One"
-                  alt="The One"
-                />
+                <Card3 image="/images/The-One.jpg" name="The One" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/1"}>
-                <Card3
-                  image="/images/Dior-Sauvage.jpg"
-                  name="Dior Sauvage"
-                  alt="Dior Sauvage"
-                />
+                <Card3 image="/images/Dior-Sauvage.jpg" name="Dior Sauvage" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/18"}>
-                <Card3
-                  image="/images/prada.jpg"
-                  name="Prada L'homme"
-                  alt="Prada L'homme"
-                />
+                <Card3 image="/images/prada.jpg" name="Prada L'homme" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/31"}>
-                <Card3
-                  image="/images/1million.jpg"
-                  name="1 Million"
-                  alt="1million"
-                />
+                <Card3 image="/images/1million.jpg" name="1 Million" />
               </Link>
             </SplideSlide>
           </Splide>

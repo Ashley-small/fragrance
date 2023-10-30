@@ -27,29 +27,17 @@ const Under200 = () => {
           >
             <SplideSlide>
               <Link to={"/details/19"}>
-                <Card3
-                  image="/images/nautica.jpg"
-                  name="Nautica Voyage"
-                  alt="Nautica"
-                />
+                <Card3 image="/images/nautica.jpg" name="Nautica Voyage" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/37"}>
-                <Card3
-                  image="/images/Zara.jpg"
-                  name="Zara Intense Dark"
-                  alt="Intense Dark"
-                />
+                <Card3 image="/images/Zara.jpg" name="Zara Intense Dark" />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/12"}>
-                <Card3
-                  image="/images/ClubDeNuit.jpg"
-                  name="Club De Nuit"
-                  alt="Club De Nuit"
-                />
+                <Card3 image="/images/ClubDeNuit.jpg" name="Club De Nuit" />
               </Link>
             </SplideSlide>
             <SplideSlide>
@@ -57,17 +45,12 @@ const Under200 = () => {
                 <Card3
                   image="/images/BentleyAbsolute.jpg"
                   name="Bentley Absolute"
-                  alt="Bentley Absolute"
                 />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/14"}>
-                <Card3
-                  image="/images/halloween.jpg"
-                  name="Halloween Man X"
-                  alt="Halloween Man X"
-                />
+                <Card3 image="/images/halloween.jpg" name="Halloween Man X" />
               </Link>
             </SplideSlide>
           </Splide>
