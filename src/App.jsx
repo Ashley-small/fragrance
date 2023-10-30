@@ -12,6 +12,7 @@ import Searched from "./pages/Searched";
 import Requests from "./pages/Requests";
 import Learn from "./pages/Learn";
 import Recommended from "./pages/Recommended";
+import NotFound from "./pages/NotFound";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -23,6 +24,7 @@ const router = createBrowserRouter(
       <Route path="/requests" element={<Requests />} />
       <Route path="/learn" element={<Learn />} />
       <Route path="/recommended" element={<Recommended />} />
+      <Route path="*" element={<NotFound />} />
     </Route>
   )
 );

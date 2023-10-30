@@ -32,9 +32,6 @@ const Searched = () => {
 
   return (
     <div className="max-w-[1640px] p-8 py-12 min-h-screen">
-      <h1 className="text-center text-3xl font-bold text-amber-800">
-        All {params.search} Fragrances
-      </h1>
       <div className=" mx-auto p-8 py-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
         {currentPageResults.map((item) => (
           <Link to={"/details/" + item.id} key={item.id}>

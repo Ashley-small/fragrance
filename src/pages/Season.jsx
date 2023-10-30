@@ -9,7 +9,6 @@ const Season = () => {
   let fragrances = aftershave.filter((aftershave) => {
     return aftershave.season === params.season;
   });
-  console.log(fragrances);
 
   return (
     <div>

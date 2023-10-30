@@ -1,13 +1,31 @@
 import React, { useState } from "react";
 import { FaSearch } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
+import aftershave from "../utils/aftershave";
+
 const Search = () => {
   const [input, setInput] = useState("");
   const navigate = useNavigate();
   const submitHandler = (e) => {
     e.preventDefault();
-    navigate("/searched/" + input);
-    setInput("");
+
+    const isMatch = aftershave.some((item) => {
+      const scentProfile = item.scentProfile.some((scents) =>
+        scents.toLowerCase().includes(input.toLowerCase())
+      );
+
+      return (
+        item.name.toLowerCase().includes(input.toLowerCase()) ||
+        item.brand.toLowerCase().includes(input.toLowerCase()) ||
+        scentProfile
+      );
+    });
+
+    if (!isMatch) {
+      navigate("/error/404");
+    } else {
+      navigate(`/searched/${input}`);
+    }
   };
   return (
     <form
