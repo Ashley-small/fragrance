@@ -15,7 +15,7 @@ const Season = () => {
       <h1 className="text-center text-3xl text-amber-800 font-bold mt-4 ">
         All {capitalized} Fragrances
       </h1>
-      <div className="max-w-[1640px] mx-auto p-8 py-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
+      <div className="max-w-[1640px] mx-auto p-8 py-12 grid = md:grid-cols-2 lg:grid-cols-4 gap-3">
         {fragrances.map((fragrance) => (
           <Link to={"/details/" + fragrance.id}>
             <Card3

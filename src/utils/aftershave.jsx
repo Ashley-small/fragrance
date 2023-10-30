@@ -316,7 +316,7 @@ const aftershave = [
     season: "winter",
     review:
       "This is a fragrance that I was apprehensive in initially trying but this is a serious attention grabber. It has absolutely no citrusy notes and opens up with cardamom and lavender for a blend of spice and freshness. The best thing about this fragrance is that it lives up to the name 'Halloween Man X' as the most prominent notes are cinnamon and whisky which add warmth. It is ideal for the cooler months of autumn and winter but is also a memorable fragrance that lasts well into the night, making it perfect for formal events, romantic dates or when you want to leave a lasting impact. ",
-    image: "/images/Halloween.jpg",
+    image: "/images/halloween.jpg",
     link: "https://www.amazon.co.uk/Halloween-Toilette-Oriental-Foug%C3%A8re-Fragrance/dp/B07NPQMY15/ref=sr_1_1?crid=28147JSNKB0EL&keywords=halloween+man+x&qid=1697564417&sprefix=Halloween+man%2Caps%2C119&sr=8-1",
   },
   {
@@ -431,7 +431,7 @@ const aftershave = [
     occasion: "anytime",
     season: "summer",
     link: "https://www.amazon.co.uk/Nautica-Voyage-Toilette-Spray-Authentic/dp/B01I54ITP0/ref=sr_1_1?keywords=nautica+voyage&qid=1690588449&sprefix=nautic%2Caps%2C90&sr=8-1",
-    image: "/images/Nautica.jpg",
+    image: "/images/nautica.jpg",
     review:
       "This is perfect for the summer as it is manufactored for a casual and active lifestyle. It opens up fairly crisp with notes of green apple and green leaves. It then becomes a lot more floral as the notes of lotus and mimosa become more prominent. It does best when there is heat as it forces its light and airy character shines the brightest. Its enduring freshness and sea inspired notes make it a great go to option for warm-weather activities. ",
   },

@@ -57,7 +57,7 @@ const Under350 = () => {
             Luxury Finds
           </h1>
           <h3 className="mt-4 text-xl text-slate-900 border-b-4 border-amber-800 border-dotted">
-            Drag Across To Discover Affordable Gems
+            Drag Across To Discover These Bargain Buys
           </h3>
 
           <ul className="mt-4 text-lg font-normal text-slate-900">
