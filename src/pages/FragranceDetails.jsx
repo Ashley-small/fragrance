@@ -37,11 +37,8 @@ const FragranceDetails = () => {
 
           <ul className="list-none md:flex md:flex-wrap mb-4">
             {product.scentProfile.map((scent, index) => (
-              <Link to={"/searched/" + scent}>
-                <li
-                  className="hover:text-amber-800 hover:font-bold mr-5    "
-                  key={index}
-                >
+              <Link to={"/searched/" + scent} key={index}>
+                <li className="hover:text-amber-800 hover:font-bold mr-5    ">
                   {scent}
                 </li>
               </Link>

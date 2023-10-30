@@ -35,6 +35,7 @@ const Requests = () => {
                   required
                   className="leading-none text-gray-900 p-3 focus:outline-none focus:border-amber-800 mt-4 bg-gray-100 border rounded border-gray-200"
                   name="name"
+                  aria-label="insert your name"
                 />
               </div>
               <div className="w-full md:w-1/2 flex flex-col md:ml-6 md:mt-0 mt-4">
@@ -44,6 +45,7 @@ const Requests = () => {
                   className="leading-none text-gray-900 p-3 focus:outline-none focus:border-amber-800 mt-4 bg-gray-100 border rounded border-gray-200 "
                   required
                   name="email"
+                  aria-label="insert your email"
                 />
               </div>
             </div>
@@ -57,6 +59,7 @@ const Requests = () => {
                   className="leading-none text-gray-900 p-3 focus:outline-none focus:border-amber-800 mt-4 bg-gray-100 border rounded border-gray-200 "
                   required
                   name="fragranceName"
+                  aria-label="insert fragrance name"
                 />
               </div>
             </div>
@@ -68,12 +71,14 @@ const Requests = () => {
                   className="h-40 text-base leading-none text-gray-900 p-3 focus:outline-none focus:border-amber-800 mt-4 bg-gray-100 border rounded border-gray-200"
                   required
                   name="message"
+                  aria-label="insert message"
                 ></textarea>
               </div>
             </div>
             <div className="flex items-center justify-center w-full">
               <button
                 type="submit"
+                aria-label="submit form"
                 className="mt-9 font-semibold leading-none text-white py-4 px-10 bg-slate-900 rounded hover:bg-amber-800 focus:ring-2 focus:ring-offset-2 focus:ring-slate-900 focus:outline-none"
               >
                 Send Message

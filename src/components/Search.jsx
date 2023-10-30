@@ -20,11 +20,15 @@ const Search = () => {
         scentProfile
       );
     });
-
     if (!isMatch) {
       navigate("/error/404");
-    } else {
+      setInput("");
+    } else if (isMatch && isMatch.length === 0) {
+      navigate("/error/404");
+      setInput("");
+    } else if (isMatch) {
       navigate(`/searched/${input}`);
+      setInput("");
     }
   };
   return (

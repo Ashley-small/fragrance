@@ -3,7 +3,7 @@ import { Splide, SplideSlide } from "@splidejs/react-splide";
 import { Link } from "react-router-dom";
 import Card3 from "./cards/Card3";
 import "@splidejs/splide/dist/css/splide.min.css";
-const Under150 = () => {
+const Under200 = () => {
   return (
     <div className="w-full mx-auto px-4 py-4">
       <div className="w-full flex flex-col lg:flex-row">
@@ -31,8 +31,8 @@ const Under150 = () => {
               </Link>
             </SplideSlide>
             <SplideSlide>
-              <Link to={"/details/14"}>
-                <Card3 image="/images/halloween.jpg" name="Halloween Man X" />
+              <Link to={"/details/37"}>
+                <Card3 image="/images/Zara.jpg" name="Zara Intense Dark" />
               </Link>
             </SplideSlide>
             <SplideSlide>
@@ -49,8 +49,8 @@ const Under150 = () => {
               </Link>
             </SplideSlide>
             <SplideSlide>
-              <Link to={"/details/32"}>
-                <Card3 image="/images/Rochas.jpg" name="Rochas Moustache" />
+              <Link to={"/details/14"}>
+                <Card3 image="/images/halloween.jpg" name="Halloween Man X" />
               </Link>
             </SplideSlide>
           </Splide>
@@ -72,7 +72,7 @@ const Under150 = () => {
             </li>
             <li className="mb-4">
               <span className="font-semibold text-amber-800">
-                Halloween Man X
+                Zara Intense Dark
               </span>
               - Ideal for Date Nights
             </li>
@@ -88,7 +88,7 @@ const Under150 = () => {
             </li>
             <li className="mb-4">
               <span className="font-semibold text-amber-800">
-                Rochas Moustache
+                Halloween Max X
               </span>
               - Perfect for Clubbing
             </li>
@@ -99,4 +99,4 @@ const Under150 = () => {
   );
 };
 
-export default Under150;
+export default Under200;

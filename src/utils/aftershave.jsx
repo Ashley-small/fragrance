@@ -451,6 +451,8 @@ const aftershave = [
     image: "/images/La-Nuit-De-L'homme.jpg",
     link: "https://www.amazon.co.uk/Nuit-Yves-Saint-Laurent-Toilette/dp/B001WB1JNS/ref=sr_1_4?crid=29SMFQWP2G5K1&keywords=la+nuit+de+l%27homme&qid=1697565606&sprefix=la+nuit+d%2Caps%2C205&sr=8-4",
     season: "winter",
+    review:
+      "If you want to really get into fragrance then you should watch Jeremy Fragrance on youtube. He is the most famous fragrance reviewer and he has said on numerous occasions that he wouldn't be here without this scent. It is an iconic scent built for seduction, special occasions and romantic encounters. It immediately starts off with a mix of spice and citrus with top notes of cardamom and bergamot. It then transforms into something more sensual, warm and elegance with the introduction of vetiver,cedar and lavender. It works best in the evening and should remain as a staple evening scent in your collection ",
   },
   {
     id: 21,
@@ -472,6 +474,8 @@ const aftershave = [
     season: "summer",
     image: "/images/Wood-Neroli.jpg",
     link: "https://www.amazon.co.uk/Bvlgari-Wood-Neroli-100ml-Parfum/dp/B07T73VKZC/ref=sr_1_1?crid=O43WL520QJAA&keywords=bvlgari+man+wood+neroli&qid=1697565634&sprefix=Bulgari+wood+%2Caps%2C82&sr=8-1",
+    review:
+      "The story behind this fragrance is quite funny. I was probably 2 years into my fragrance journey and was trying to get one of my best friends into fragrance. We went to John Lewis and he was drawn to Wood Essence by Bvlgari. I thought I would be nice and buy the fragrance for him for christmas. What I didn't know was that there was another woody scent by Bvlgari and that was Wood Neroli. I accidently ordered that one and gave it to him. This was the best fragrance mistake as the scent was 10x better. It was warmer but also a lot more veratile than Wood Essence and could be worn in both casual and formal occasions. He wears it fairly often, tells me that he always got compliments wearing it and a month after he started wearing it, he found his potential wife. ",
   },
   {
     id: 22,
@@ -495,6 +499,8 @@ const aftershave = [
     link: "https://www.boots.com/emporio-armani-stronger-with-you-intensely-eau-de-parfum-50ml-10259447?cm_mmc=bmm-buk-google-ppc-_-PLAs_HeroCompare-_--_-PMax:+UK_Smart_Shopping_Fragrance_All&gad_source=1&gclid=Cj0KCQjw4bipBhCyARIsAFsieCxJA9BQVvAI4nNDsYUtvGZIuX1yHQn1X_yq9iKcJjGjxidxFPxZmagaAk-WEALw_wcB&gclsrc=aw.ds",
     image: "/images/Stronger.jpg",
     season: "autumn",
+    review:
+      "This and Spicebomb (The Twins) were the first two fragrances that I bought as an adult. I instantly enjoyed wearing this fragrance due to its sweetness and the way I felt wearing it. The sweetness comes from the Tonka Bean, Vanilla and Toffee. This is a very powerful scent and is one of the best fragrances if you want to make an impression as there is no other fragrance on the market that uses the same fragrance profile. It exudes warmth and is a superb choice for the cooler seasons, date nights and special occasions. It got to the point where 5 people have now purchased this scent due to it being a regular wear for me. This is a must have addition for you collection and is a fragrance that I will religiously wear. ",
   },
   {
     id: 23,
@@ -517,6 +523,8 @@ const aftershave = [
     image: "/images/Spicebomb.jpg",
     link: "https://www.amazon.co.uk/Viktor-Rolf-Spicebomb-Extreme-Parfum/dp/B00WYP5ZHW/ref=sr_1_5?crid=3LH9SCM11A7SY&keywords=spicebomb&qid=1697565728&sprefix=spiceb%2Caps%2C243&sr=8-5&th=1",
     season: "winter",
+    review:
+      "The other half of the twins and another staple to my evergrowing fragrance collection, Spicebomb is literally an explosion of olfactory pleasure. I remember buying the gift set and bringing the small travel bottle with me everywhere. My friends would love to spray it because they knew that it left an unforgettable impression. With notes of paprika and saffron, it opens intense and fiery. It then gets more depth and sensuality with the introduction of the leather and tobacco notes, creating a captivating and long lasting aroma. This is quite frankly the best fragrance for the stretch between Halloween and February due to how versatile and powerful the fragrance is.",
   },
   {
     id: 24,
@@ -540,6 +548,8 @@ const aftershave = [
     season: "summer",
     image: "/images/Artisan-pure.jpg",
     link: "https://www.amazon.co.uk/John-Varvatos-Artisan-Pure-125/dp/B078218XMK/ref=sr_1_1?crid=1H6Q1EOHL2DMO&keywords=artisan+pure+john+varvatos&qid=1697565772&sprefix=Artisan+%2Caps%2C87&sr=8-1",
+    review:
+      "This and Nautica Voyage are two peas in a pod but Artisan Pure lasts significantly longer. It has top notes of clementine, lemon, mandarin orange, thyme and marjoram, opening the fragrance off with a burst of citrus and freshness. It then becomes more floral, with the introduction of orange flower and petitgrain. The combination of citrus and floral notes meaning that it is an excellent choice for daytime wear, especially during the spring and summer months. It is perfect for casual outings, beach vacations or any type of active day. ",
   },
   {
     id: 25,
@@ -563,6 +573,8 @@ const aftershave = [
     link: "https://www.amazon.co.uk/Bentley-Men-Intense-Eau-Parfum/dp/B00CP7A1BY/ref=sr_1_1?crid=1TRKRRY6WK267&keywords=bentley%2Bintense%2Bfor%2Bmen&qid=1697565804&sprefix=Bentl%2Caps%2C102&sr=8-1&th=1",
     season: "autumn",
     occasion: "office",
+    review:
+      " This really is just a very masculine scent and should not, I REPEAT, SHOULD NOT be worn in the summer or spring time due to how powerful this fragrance is. It starts off bold with the top notes of black pepper, incense, and geranium. It then gets more depth from the rum, leather and cedarwood, all very harsh notes but when used correctly, adds confidence, sophistication and warmth to the fragrance. This is perfect for evening wear and formal occasions. It is intense and long-standing aroma make it a standout choice for work events, black-tie dinners and upscale gatherings",
   },
   {
     id: 26,
@@ -620,6 +632,8 @@ const aftershave = [
     season: "winter",
     image: "/images/Tobacco-Vanille.jpg",
     link: "https://www.lookfantastic.com/tom-ford-tobacco-vanille-eau-de-parfum-spray-50ml/12709323.html?affil=thgppc&switchcurrency=GBP&shippingcountry=GB&gclid=55d2db7af4d11453d759be5439d3eb45&gclsrc=3p.ds&msclkid=55d2db7af4d11453d759be5439d3eb45&utm_source=bing&utm_medium=cpc&utm_campaign=UK%20Smart%20Shopping%20SSC%20-%20Top%2035%20Brands%20-%201000%25&utm_term=4583589124190261&utm_content=Top%2035%20Brands",
+    review:
+      "Initially, I didn't like a single Tom Ford fragrance. I believed that all fragrances were too focused on one note and it became overpowering. Tobacco Vanille completely changed my perspective. It starts off smokey and spicy with the top notes of tobacco leaf and numerous spicy notes. I believe that this scent truly transforms when the cacao, tonka bean, vanilla and dried fruits are introduced around half an hour after it was initially sprayed. It adds a level of sweetness that mixes well with the smokey and spicy notes that were are already present. This is great for the autumn and winter months, phenomenal for formal events and romantic evenings. You don't need to spray much of this and shouldn't want to with this being around £200 per bottle. ",
   },
   {
     id: 28,
@@ -647,6 +661,8 @@ const aftershave = [
     season: "winter",
     image: "/images/Red-Tobacco.jpg",
     link: "https://www.bing.com/search?q=red+tobacco+mancera&cvid=c7bb952abee64fb3b51a923241dc4359&gs_lcrp=EgZjaHJvbWUqBAgCEAAyBAgAEAAyBggBEEUYOTIECAIQADIECAMQADIECAQQADIECAUQADIECAYQADIECAcQADIECAgQANIBCDI4MDJqMGo0qAIAsAIA&FORM=ANAB01&PC=HCTS",
+    review:
+      "This is essentially a combination of Tobacco Vanille and Spicebomb, a fusion of tobacco and spice. It starts off very spicy with top notes of saffron and cinnamon that immediately commands attention. Tobacco and Vanilla is then added to the mix, bringing a smokey sweetness that balances the fragrance and makes this unforgettable. This is best worn in Autumn & Winter as its warmth becomes more prominent. It is a perfect choice for evening wear, whether you're attending a formal event or a night out, it will draw attention. ",
   },
   {
     id: 29,
@@ -668,7 +684,7 @@ const aftershave = [
     ],
     image: "/images/Eros.jpg",
     review:
-      "This was the original clubbing scent, sensationally sweet. It isn't particulary unique as there are two other fragrances that accomplish a similar thing in Paco Rabanne 1 Million and Jean Paul Gaultier Ultramale, however, all of them are effective and there are subtle differences between them.",
+      "Every fragrance house needs to have their own blue fragrance. Dior has Sauvage, Chanel has Bleu de Chanel, and Versace has Versace Eros. It starts off fresh and invigorating with mint, green apple, and lemon. It then becomes significantly warmer and sweeter with the introduction of tonka beans, ambroxan, geranium, vanilla and cedarwood. It is best for daytime wear, especially during the spring and summer seasons, a normal characteristic of blue fragrances. Its perfect for casual outings or daytime events. ",
     occasion: "Clubbing",
     link: "https://www.amazon.co.uk/Versace-Eros-Parfum-100-ml/dp/B09HXZ84SJ/ref=sr_1_2?crid=2H222IT0HIIE&keywords=versace+eros&qid=1697566063&sprefix=vers%2Caps%2C180&sr=8-2",
     season: "autumn",
@@ -718,6 +734,8 @@ const aftershave = [
     link: "https://www.amazon.co.uk/Paco-Rabanne-Million-Eau-Toilette/dp/B002XQ1X4G/ref=sr_1_1?crid=3R1YICTYRRZOX&keywords=paco+rabanne+one+million&qid=1697566128&sprefix=Paco%2Caps%2C112&sr=8-1",
     occasion: "Night Out",
     season: "spring",
+    review:
+      "When I am going out with my friends and it is more of a casual night out, this tends to be the first fragrance I reach for. It is a very confident fragrance that has been around for over a decade. This starts off very fresh and citrusy with the top notes of blood mandarin and peppermint. Rose, Cinnamon & Leather add sweetness, floral tones and depth to make this a multifaceted and well balanced fragrance. This is a sweeter fragrance which typically should be worn in autumn and winter. It's perfect for evening wear, whether you're attending a special event or night out with friends. ",
   },
   {
     id: 32,
@@ -735,8 +753,10 @@ const aftershave = [
     ],
     image: "/images/Rochas.jpg",
     link: "https://www.amazon.co.uk/dp/B07HK4ZNLQ?ref=nb_sb_ss_w_as-reorder-t1_k9_1_6&amp=&crid=2LWDE7ORKY72I&amp=&sprefix=rochas",
-    occasion: "Night Out",
+    occasion: "Office",
     season: "winter",
+    review:
+      "This is inspired by YSL Tuxedo. Tuxedo is one of the most popular mens designer fragrances of all time. Rochas Moustahce is fairly similar for a quarter of the price. It starts of spicy with the pink pepper,and then the scent profile begins to become more balanced with vanilla, tonka bean, patchouli and cedarwood. They add sweetness and depth. This is a very versatile fragrance, perfect for daytime wear and year-round use, however, I personally believe that it is best used as a 'grown mans scent'. That means going to the office, to a business meeting, or to a leisurely lunch.  ",
   },
   {
     id: 33,
@@ -755,6 +775,8 @@ const aftershave = [
     season: "summer",
     image: "/images/ADG.jpg",
     link: "https://www.superdrug.com/fragrance/fragrance-for-him/mens-aftershave/giorgio-armani-aqua-di-gio-profumo-edp-refill-75ml/p/819720?msclkid=fde692829ab11b847622f7ac554f353a&utm_source=bing&utm_medium=cpc&utm_campaign=Superdrug-UK-PLA-Combined-All-All-SE-NC-Metoda-GSC-Fragrance&utm_term=4583863989899416&utm_content=Fragrance%20-%20Low%20Converting&gclid=fde692829ab11b847622f7ac554f353a&gclsrc=3p.ds",
+    review:
+      "Acqua di Gio Profumo is the modern and sophisticated version of the classic Acqua di Gio. It is Giorgio Armani's blue fragrance and is wildly versatile. The fragrance is very fresh, opening with bergamot and marine notes. It then develops further with rosemary, geranium and patchouli, for a long lasting finish and a hint of herbal freshness.  When I say this is versatile, I mean there is no occasion where this classic will not cover. It is perfect for year round wear, with it being fresh enough to be worn during the day and leaving that refreshing and clean feel, while also being bold enough and having enough depth to carry you through an evening. This is the definition of a set it and forget it fragrance. Have it in your collection and use it at any time. ",
   },
   {
     id: 34,
@@ -771,6 +793,8 @@ const aftershave = [
     image: "/images/GreenIrishTweed.jpg",
     link: "https://www.johnlewis.com/creed-green-irish-tweed-eau-de-parfum/p3311377?size=50ml&s_ppc=5dx92700074071294720_mixed_fashion_BAU&tmad=c&tmcampid=2&gclid=26bb437619e51afab1002658c9b47be9&gclsrc=3p.ds&msclkid=26bb437619e51afab1002658c9b47be9",
     season: "summer",
+    review:
+      "If you listen to anyone within the fragrance space, they refer to it as 'a true classic in the world of mens perfumery'. It opens up fresh with a best of lemon and verbena, making it perfect for daytime wear. Although it is probably best worn in the spring and summer, this fragrance is versatile enough to be worn in any season or occasion. Whether you are at home in the office, having a casual day out, or at a formal event, this fragrance does not feel out of place. The introduction off violet leaves, iris, ambergris and sandalwood serve the purpose of balancing out the fresh, citrus notes that you get at the start, introducing sweetness and floral tones, while also adding to the strength of this timeless classic.",
   },
   {
     id: 35,
@@ -788,6 +812,52 @@ const aftershave = [
     image: "/images/Ombre-Leather.jpg",
     season: "winter",
     link: "https://www.johnlewis.com/tom-ford-ombre-leather-eau-de-parfum/p3745635",
+    review:
+      "This fragrance genuinely confuses me. The combination of notes should not smell this nice but it does. Tom Ford was very daring with this and it is probably not a scent profile that will be replicated. Cardamom and leather at the opening means that it starts of spicy and bold. The jasmine not is probably the reason why this profile works as it adds a softness to the fragrance, makes it more floral, and more versatile. It is best worn in the autumn and winter making due to its strength and the fact that if this reacts with harsh heat, it will become overpowering and very potent. It is perfect for evening wear, making it an excellent choice for special occasions, romantic dates, or nights out with friends. ",
+  },
+  {
+    id: 36,
+    name: "First Instinct",
+    perfumer: "Phillipe Romano",
+    brand: "Abercrombie & Fitch",
+    scentProfile: [
+      "Melon",
+      "Tonic Water",
+      "Gin",
+      "Violet Leaf",
+      "Sichaun Pepper",
+      "Citruses",
+      "Musk",
+      "Suede",
+      "Amber",
+    ],
+    image: "/images/Abercrombie.jpg",
+    season: "summer",
+    link: "https://www.amazon.co.uk/Abercrombie-Fitch-First-Instinct-Toilette/dp/B01FUSFQUU/ref=asc_df_B01FUSFQUU?tag=bingshoppinga-21&linkCode=df0&hvadid=80401845130254&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584001419464945&psc=1",
+    review:
+      "The way to describe this fragrance is youthful. It is 100% a fragrance for the late teens and early 20's male on a budget. Don't believe me? The top notes are literally Gin and Tonic, and they add the melon for a bit of freshness. This opening combination is perfect daytime wear. The Sichaun Pepper adds a bit of bite to this fresh and citrusy scent while the amber and suede adds the depth necessary for this be a long lasting fragrance. It is perfect for the spring and summer, and is well-suited to casual outings, beach vacations , or any situation where you want to have fun in the sun. You get all of this for just under £30.",
+  },
+  {
+    id: 37,
+    name: "Intense Dark",
+    perfumer: "Zara's inhouse perfumery team",
+    brand: "Zara",
+    scentProfile: [
+      "Tobacco",
+      "Tonka Bean",
+      "Vanilla",
+      "Apple",
+      "Black Pepper",
+      "Cashmere Wood",
+      "Mint",
+      "Basil",
+      "Bergamot",
+    ],
+    image: "/images/Zara.jpg",
+    season: "Winter",
+    link: "https://www.zara.com/uk/en/-tobacco-collection-intense-dark-exclusive-edt-100-ml---3-38%C2%A0oz-p20210473.html",
+    review:
+      "Zara are known for having hidden gem fragrances and this right here is the cream of the crop. It is essentially a knock off of my favourite Tom Ford fragrance, Tobacco Vanille for less than £20. It opens up with a mix of tobacco and spices, which provides a lot of warmth and immediately commands attention. It then becomes significantly sweeter with the introduction of tonka bean and vanilla. My favourite note in all of fragrance is tonka bean as it balances out harsh, heavy notes effectively and this fragrance has it in abundance. As with Tobacco Vanille, this is an autumn and winter fragrance that shines best at formal events, special occasions and romantic nights out. Quite frankly, this is a phenomenal fragrance with the scent profile of a better one worth £200, the ability to be worn both casually and formally, and will leave a memorable impression wherever you go while costing less than £20. This is the definition of a bargain. ",
   },
 ];
 export default aftershave;

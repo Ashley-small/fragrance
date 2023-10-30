@@ -17,7 +17,10 @@ const TheFive = () => {
             </h1>
             <div className="flex w-full justify-end px-4 lg:pr-10 lg:text-3xl">
               <Link to={"./recommended"}>
-                <button className="mt-9 font-semibold leading-none text-black py-4 px-6 lg:py-6 lg:px-10 bg-white rounded hover:bg-amber-800 focus:ring-2 focus:ring-offset-2 focus:ring-slate-900 focus:outline-none">
+                <button
+                  className="mt-9 font-semibold leading-none text-black py-4 px-6 lg:py-6 lg:px-10 bg-white rounded hover:bg-amber-800 focus:ring-2 focus:ring-offset-2 focus:ring-slate-900 focus:outline-none"
+                  aria-label="click button to go the five page"
+                >
                   Click Here
                 </button>
               </Link>

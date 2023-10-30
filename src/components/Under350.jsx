@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 import Card3 from "./cards/Card3";
 import "@splidejs/splide/dist/css/splide.min.css";
-const Under300 = () => {
+const Under350 = () => {
   return (
     <div className="w-full mx-auto px-4 py-4">
       <div className="w-full flex flex-col lg:flex-row">
@@ -94,4 +94,4 @@ const Under300 = () => {
   );
 };
 
-export default Under300;
+export default Under350;

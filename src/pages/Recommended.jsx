@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import Over500 from "../components/Over500";
-import Under300 from "../components/Under300";
-import Under150 from "../components/Under150";
+import Under350 from "../components/Under350";
+import Under200 from "../components/Under200";
 
 const Recommended = () => {
-  const [selectedPage, setSelectedPage] = useState("under150");
+  const [selectedPage, setSelectedPage] = useState("under200");
   const handlePageChange = (page) => {
     setSelectedPage(page);
   };
@@ -26,22 +26,24 @@ const Recommended = () => {
       </div>
       <div className="flex justify-center space-x-4 my-6">
         <button
-          onClick={() => handlePageChange("Under150")}
+          onClick={() => handlePageChange("Under200")}
           className={`py-2 px-4 rounded-lg focus:outline-none ${
-            selectedPage === "Under150"
+            selectedPage === "Under200"
               ? "bg-amber-800 text-white"
               : "bg-slate-900 text-white"
           }`}
+          aria-label="5 fragrances for under a combined total of £200"
         >
           Under £200
         </button>
         <button
-          onClick={() => handlePageChange("Under300")}
+          onClick={() => handlePageChange("Under350")}
           className={`py-2 px-4 rounded-lg focus:outline-none ${
-            selectedPage === "Under300"
+            selectedPage === "Under350"
               ? "bg-amber-800 text-white"
               : "bg-slate-900 text-white"
           }`}
+          aria-label="5 fragrances for under a combined total of £350"
         >
           Under £350
         </button>
@@ -52,13 +54,14 @@ const Recommended = () => {
               ? "bg-amber-800 text-white"
               : "bg-slate-900 text-white"
           }`}
+          aria-label="5 fragrances for over a combined total of £500"
         >
           Over £500
         </button>
       </div>
       <div className="mt-4">
-        {selectedPage === "Under150" && <Under150 />}
-        {selectedPage === "Under300" && <Under300 />}
+        {selectedPage === "Under200" && <Under200 />}
+        {selectedPage === "Under350" && <Under350 />}
         {selectedPage === "Over500" && <Over500 />}
       </div>
     </div>

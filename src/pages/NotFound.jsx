@@ -11,22 +11,22 @@ const NotFound = () => {
           </span>
           Hey There!
         </h2>
-        <p className="text-xl mb-6">
+        <p className="text-lg md:text-xl mb-6">
           It seems you've stumbled upon a fragrance I haven't reviewed yet.
           Don't worry; the world of fragrances is vast, and I haven't covered
           them all.
         </p>
-        <p className="text-xl mb-6">
+        <p className="text-lg md:text-xl mb-6">
           You can be a fragrance pioneer! Leave a review for this discovery
           <Link to="/requests" className="text-slate-900 underline">
-            <span> here </span>
+            <span className="font-bold"> here </span>
           </Link>
           and help others in their fragrance journey.
         </p>
-        <p className="text-xl mb-4">
-          Or, if you're feeling adventurous, explore more fragrances on the{" "}
+        <p className="text-lg md:text-xl mb-6">
+          Or, if you're feeling adventurous, explore more fragrances on the
           <Link to="/" className="text-slate-900 underline">
-            <span>homepage</span>
+            <span className="font-bold"> homepage</span>
           </Link>
           .
         </p>
