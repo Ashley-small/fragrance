@@ -8,7 +8,7 @@ const NotFound = () => {
         <h2 className="text-5xl font-bold mb-4">
           <span role="img" aria-label="Wave Emoji">
             👋
-          </span>{" "}
+          </span>
           Hey There!
         </h2>
         <p className="text-xl mb-6">

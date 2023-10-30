@@ -36,10 +36,10 @@ const Learn = () => {
 
   const handleToggleFaq = (index) => {
     if (openFaq === index) {
-      // If the same FAQ item is clicked, close it
+      
       setOpenFaq(null);
     } else {
-      // Otherwise, open the clicked FAQ
+     
       setOpenFaq(index);
     }
   };
