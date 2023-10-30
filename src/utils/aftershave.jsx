@@ -854,7 +854,7 @@ const aftershave = [
       "Bergamot",
     ],
     image: "/images/Zara.jpg",
-    season: "Winter",
+    season: "winter",
     link: "https://www.zara.com/uk/en/-tobacco-collection-intense-dark-exclusive-edt-100-ml---3-38%C2%A0oz-p20210473.html",
     review:
       "Zara are known for having hidden gem fragrances and this right here is the cream of the crop. It is essentially a knock off of my favourite Tom Ford fragrance, Tobacco Vanille for less than £20. It opens up with a mix of tobacco and spices, which provides a lot of warmth and immediately commands attention. It then becomes significantly sweeter with the introduction of tonka bean and vanilla. My favourite note in all of fragrance is tonka bean as it balances out harsh, heavy notes effectively and this fragrance has it in abundance. As with Tobacco Vanille, this is an autumn and winter fragrance that shines best at formal events, special occasions and romantic nights out. Quite frankly, this is a phenomenal fragrance with the scent profile of a better one worth £200, the ability to be worn both casually and formally, and will leave a memorable impression wherever you go while costing less than £20. This is the definition of a bargain. ",
