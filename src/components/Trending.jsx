@@ -16,7 +16,7 @@ const Trending = () => {
         <div className="max-w-[1640px] mx-auto p-8 py-12 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {trending.map((scent) => (
             <Link key={scent.id} to={"/details/" + scent.id}>
-              <Card3 image={scent.image} name={scent.name} />
+              <Card3 image={scent.image} name={scent.name} alt={scent.name} />
             </Link>
           ))}
         </div>

@@ -30,27 +30,44 @@ const Over500 = () => {
                 <Card3
                   image="/images/GreenIrishTweed.jpg"
                   name="Green Irish Tweed"
+                  alt="Green Irish Tweed"
                 />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/4"}>
-                <Card3 image="/images/Black-Phantom.jpg" name="Black Phantom" />
+                <Card3
+                  image="/images/Black-Phantom.jpg"
+                  name="Black Phantom"
+                  alt="Black Phantom"
+                />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/2"}>
-                <Card3 image="/images/Creed-Aventus.jpg" name="Creed Aventus" />
+                <Card3
+                  image="/images/Creed-Aventus.jpg"
+                  name="Creed Aventus"
+                  alt="Creed Aventus"
+                />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/35"}>
-                <Card3 image="/images/Ombre-Leather.jpg" name="Ombre Leather" />
+                <Card3
+                  image="/images/Ombre-Leather.jpg"
+                  name="Ombre Leather"
+                  alt="Ombre Leather"
+                />
               </Link>
             </SplideSlide>
             <SplideSlide>
               <Link to={"/details/3"}>
-                <Card3 image="/images/MyrhhandTonka.jpg" name="Myrrh & Tonka" />
+                <Card3
+                  image="/images/MyrhhandTonka.jpg"
+                  name="Myrrh & Tonka"
+                  alt="Myrrh & Tonka"
+                />
               </Link>
             </SplideSlide>
           </Splide>

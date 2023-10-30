@@ -35,7 +35,7 @@ const Searched = () => {
       <div className=" mx-auto p-8 py-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
         {currentPageResults.map((item) => (
           <Link to={"/details/" + item.id} key={item.id}>
-            <Card3 name={item.name} image={item.image} />
+            <Card3 name={item.name} image={item.image} alt={item.name} />
           </Link>
         ))}
       </div>

@@ -10,16 +10,16 @@ const Seasons = () => {
       </h1>
       <div className="max-w-[1640px] mx-auto p-8 py-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
         <Link to={"/summer"}>
-          <Card name="Summer" image="/images/7480.jpg" />
+          <Card name="Summer" image="/images/7480.jpg" alt="Summer-image" />
         </Link>
         <Link to={"/spring"}>
-          <Card2 name="Spring" image="/images/61562.jpg" />
+          <Card2 name="Spring" image="/images/61562.jpg" alt="Spring-image" />
         </Link>
         <Link to={"/autumn"}>
-          <Card name="Autumn" image="/images/885.jpg" />
+          <Card name="Autumn" image="/images/885.jpg" alt="Autumn-image" />
         </Link>
         <Link to={"/winter"}>
-          <Card2 name="Winter" image="/images/4065.jpg" />
+          <Card2 name="Winter" image="/images/4065.jpg" alt="Winter-image" />
         </Link>
       </div>
     </div>

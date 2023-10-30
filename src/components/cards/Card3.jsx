@@ -8,6 +8,7 @@ const Card3 = ({ image, name }) => {
           className="absolute 
         h-4/5 w-full object-contain"
           src={image}
+          alt={alt}
         />
         <h2 className="absolute text-center inset-x-0 bottom-6 ">{name}</h2>
       </div>
