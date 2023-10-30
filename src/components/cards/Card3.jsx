@@ -1,6 +1,6 @@
 import React from "react";
 
-const Card3 = ({ image, name }) => {
+const Card3 = ({ image, name, alt }) => {
   return (
     <div>
       <div className=" h-80 relative border-2 overflow-hidden rounded-3xl  hover:shadow-md hover:shadow-amber-800/75 font-bold text-xl hover:text-2xl hover:text-amber-800 break-normal ">
