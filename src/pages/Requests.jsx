@@ -19,7 +19,7 @@ const Requests = () => {
     }
   };
   return (
-    <div className="w-full">
+    <div className="w-full min-h-screen">
       <div className="bg-gradient-to-b from-slate-900 to-amber-800 h-96"> </div>
       <div className="max-w-5xl mx-auto px-6 sm:px-6 lg:px-8 mb-12">
         <div className="bg-white w-full shadow rounded p-8 sm:p-12 -mt-72">
