@@ -33,13 +33,13 @@ const Search = () => {
   };
   return (
     <form
-      className="h-10 bg-gray-200 rounded-full flex items-center px-2 w-full md:w-2/4 mt-2 mb-2 border-2 border-gray-600"
+      className="bg-gray-200 rounded-full flex items-center px-2 w-full md:w-2/4 mt-2 mb-2 border-2 border-gray-600"
       onSubmit={submitHandler}
     >
-      <FaSearch size={20} onClick={submitHandler} />
+      <FaSearch size={20} onClick={submitHandler} className="text-amber-800" />
       <input
         onChange={(e) => setInput(e.target.value)}
-        className="w-full bg-transparent p-2 focus:outline-none font-medium"
+        className="w-full bg-transparent text-amber-800 font-semibold p-2 focus:outline-none  placeholder-amber-800"
         type="text"
         placeholder="Search ..."
         value={input}

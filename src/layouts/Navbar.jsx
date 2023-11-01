@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="max-w-[1640px] mx-auto flex justify-between items-center p-4 bg-slate-900 text-white">
+      <div className="w-full mx-auto flex justify-between items-center p-4 bg-slate-900 text-white">
         <div>
           <Link to="/">
             <h1 className="text-3xl cursor-pointer hover:text-amber-800">

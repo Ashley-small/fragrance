@@ -132,6 +132,7 @@ const aftershave = [
     season: "spring",
     occasion: "Night Out ",
     link: "https://www.amazon.co.uk/Byredo-Mojave-Ghost-Parfum-100/dp/B00NAX07ZM/ref=sr_1_1?crid=3LO8KJQASAFTB&keywords=mojave+ghost+byredo&qid=1697563371&sprefix=mojave+%2Caps%2C112&sr=8-1&ufe=app_do%3Aamzn1.fos.cc223b57-2b86-485c-a85e-6431c1f06c86",
+    review: "",
   },
   {
     id: 7,
